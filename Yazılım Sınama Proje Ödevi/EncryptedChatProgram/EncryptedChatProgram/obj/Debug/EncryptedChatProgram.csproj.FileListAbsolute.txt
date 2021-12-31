@@ -1,0 +1,13 @@
+C:\Users\soleil\Desktop\EncryptedChatProgram\EncryptedChatProgram\bin\Debug\EncryptedChatProgram.exe.config
+C:\Users\soleil\Desktop\EncryptedChatProgram\EncryptedChatProgram\bin\Debug\EncryptedChatProgram.exe
+C:\Users\soleil\Desktop\EncryptedChatProgram\EncryptedChatProgram\bin\Debug\EncryptedChatProgram.pdb
+C:\Users\soleil\Desktop\EncryptedChatProgram\EncryptedChatProgram\bin\Debug\MetroFramework.dll
+C:\Users\soleil\Desktop\EncryptedChatProgram\EncryptedChatProgram\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\soleil\Desktop\EncryptedChatProgram\EncryptedChatProgram\obj\Debug\EncryptedChatProgram.Properties.Resources.resources
+C:\Users\soleil\Desktop\EncryptedChatProgram\EncryptedChatProgram\obj\Debug\EncryptedChatProgram.csproj.GenerateResource.cache
+C:\Users\soleil\Desktop\EncryptedChatProgram\EncryptedChatProgram\obj\Debug\EncryptedChatProgram.csproj.CoreCompileInputs.cache
+C:\Users\soleil\Desktop\EncryptedChatProgram\EncryptedChatProgram\obj\Debug\EncryptedChatProgram.csproj.CopyComplete
+C:\Users\soleil\Desktop\EncryptedChatProgram\EncryptedChatProgram\obj\Debug\EncryptedChatProgram.exe
+C:\Users\soleil\Desktop\EncryptedChatProgram\EncryptedChatProgram\obj\Debug\EncryptedChatProgram.pdb
+C:\Users\soleil\Desktop\EncryptedChatProgram\EncryptedChatProgram\obj\Debug\EncryptedChatProgram.Form1.resources
+C:\Users\soleil\Desktop\EncryptedChatProgram\EncryptedChatProgram\bin\Debug\SimpleTCP.dll
